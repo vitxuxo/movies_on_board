@@ -31,6 +31,7 @@ class Main extends StatelessWidget {
         ],
         child: MaterialApp(
           debugShowCheckedModeBanner: false,
+          title: "Board Movies",
           home: Home(),
         ),
       ),
