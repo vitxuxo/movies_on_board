@@ -1,6 +1,6 @@
 # movies_on_board
 
-A new Flutter project.
+Aplicativo para mostrar filmes em cartaz, e poder favoritá-los.
 
 ## Getting Started
 
